@@ -1,0 +1,7 @@
+parameters:
+#    byte_noodles_symfony2_orm.example.class: ByteNoodles\Bundle\Symfony2ORMBundle\Example
+
+services:
+#    byte_noodles_symfony2_orm.example:
+#        class: %byte_noodles_symfony2_orm.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

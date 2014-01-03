@@ -1,0 +1,4 @@
+byte_noodles_symfony2_orm:
+    resource: "@ByteNoodlesSymfony2ORMBundle/Resources/config/routing.yml"
+    prefix:   /
+

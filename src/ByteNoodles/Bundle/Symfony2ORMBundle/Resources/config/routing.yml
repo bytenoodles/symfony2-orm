@@ -1,0 +1,3 @@
+byte_noodles_symfony2_orm_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: ByteNoodlesSymfony2ORMBundle:Default:index }
